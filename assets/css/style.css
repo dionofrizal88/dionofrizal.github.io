@@ -312,7 +312,7 @@ warna hover:0563bb;
 #hero:before {
   content: "";
   background: rgba(255, 255, 255, 0);
-  margin-bottom: : 100px;
+  margin-bottom: 100px;
   position: absolute;
   bottom: 0;
   top: 0;
