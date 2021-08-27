@@ -66,6 +66,18 @@ warna hover:0563bb;
   }
 }
 
+.justify-text{
+  text-align: justify;
+}
+
+.skill-img{
+  position: absolute;
+}
+
+.skill-img:hover {
+  transform: scale(1.05);
+}
+
 .back-to-top {
   position: fixed;
   visibility: hidden;
